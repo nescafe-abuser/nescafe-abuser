@@ -12,9 +12,9 @@ I occasionally make videos showcasing things I have built. I plan to start a tec
 
 ## Things I am passionate about
 
-- Linux :penguin:
-- Open Source :octocat:
-- Embedded Programming 
+- Linux
+- Open Source
+- Processor Offloading and Parallelization
 
 ## Get in touch :coffee:
 
