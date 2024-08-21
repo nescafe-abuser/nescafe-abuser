@@ -6,7 +6,7 @@
 
 ## About me
 
-I am Maharshi Mukherjee. A Computer Science student at Kalinga Institute of Industrial Technology. I like to work with C, Python, BASH and Rust.
+I am Maharshi Mukherjee. A Computer Science student at Kalinga Institute of Industrial Technology. I like to work with C, BASH and Rust.
 
 I occasionally make videos showcasing things I have built. I plan to start a tech blog later.
 
